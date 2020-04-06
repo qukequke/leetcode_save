@@ -65,6 +65,7 @@ class Solution:
         for i in dp:
             print(i)
         return res
+print(1)
 
 
 print(Solution().longestPalindrome('ababbbaba'))
